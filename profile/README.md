@@ -11,7 +11,7 @@ The [unity-project](https://github.com/chloe-game/unity-project) repository
 contains the current source code for the proof of concept game.
 
 At the moment, my goal is to build out
-[Level 0](https://github.com/chloe-game/documentation/Design/Levels/Level_00_S3.md)
+[Level 0](https://github.com/chloe-game/documentation/blob/main/design/levels/00-s3.md)
 and have players give feedback on the concept as a whole.
 
 ---
@@ -53,8 +53,8 @@ areas of strength or improvement. Players can use the in-game assistant, CHLOE,
 for just-in-time (JIT) training, providing contextual information while
 building.
 
-- [Frequently Asked Questions (FAQ)](https://github.com/chloe-game/documentation/FAQ.md)
-- [Example Intro Level Outline](https://github.com/chloe-game/documentation/Design/Intro_Level_Outline.md)
+- [Frequently Asked Questions (FAQ)](https://github.com/chloe-game/documentation/blob/main/design/faq.md)
+- [Example Intro Level Outline](https://github.com/chloe-game/documentation/blob/main/design/intro-level-outline.md)
 
 ---
 
