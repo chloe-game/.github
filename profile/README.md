@@ -16,7 +16,7 @@ and have players give feedback on the concept as a whole.
 
 ---
 
-## Overview
+## What if you could physically walk through an AWS account?
 
 Cloud Hosting and Learning Optimization Environment (CHLOE) is game-based
 training simulation for visual learners. CHLOE's single-player, story-driven
@@ -55,6 +55,38 @@ building.
 
 - [Frequently Asked Questions (FAQ)](https://github.com/chloe-game/documentation/blob/main/design/faq.md)
 - [Example Intro Level Outline](https://github.com/chloe-game/documentation/blob/main/design/intro-level-outline.md)
+
+## Why is this important?
+
+### Existing hands-on training does not appeal to visual or spatial learners
+
+Technical training is often prescriptive and lacking visual fidelity. Hands-on
+training such as self-paced labs are typically single-service in focus, with
+relationships and integrations into workloads being represented as static
+architecture diagrams.
+
+### Customers want human-readable, meaningful architecture visualization
+
+Multi-account and multi-region infrastructure do not scale in existing 2D
+visualizations without loss of fidelity or data. Customers cannot make fully
+informed decisions when data is sacrificed for comprehension. Web-based
+visualization tools lack sufficient processing power to render large
+infrastructure sets in a meaningful way. Creation of architecture diagrams by
+hand is time consuming and error prone. Existing tools such as the AWS
+Management Console, AWS Command Line Interface (AWS CLI), and AWS software
+development kits (SDKs) provide text-based output that is well-suited for
+computational processing, but less so for human comprehension. Video
+game/simulation engines provide an opportunity due to their built-in
+optimization for handling large numbers of interrelated objects that interact in
+real-time.
+
+### Customers frequently have to switch contexts between learning and doing
+
+Existing simulation and training technologies are one-way, read-only systems
+that require context switching to and from in order to view information, make
+decisions, and take action on those decisions. There is an opportunity to reduce
+customer churn between systems in order to make infrastructure decisions and
+take action.
 
 ---
 
